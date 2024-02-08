@@ -1,0 +1,23 @@
+.app--container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.register--container {
+  padding: 10px 20px;
+  border: 3px solid black;
+  width: max-content;
+  height: max-content;
+  border-radius: 5px;
+}
+
+.register--input {
+  display: block;
+}
+
+.register--card{
+  width: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+}
